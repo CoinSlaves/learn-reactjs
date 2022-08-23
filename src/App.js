@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React CoinSlaves-Nguyen Ngoc
+          Learn React with My~ ngu
         </a>
       </header>
     </div>
